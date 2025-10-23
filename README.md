@@ -4,6 +4,11 @@
 I’m a Junior Software Developer and software engineering student passionate about **frontend** and **backend** development.  
 I love building full-stack apps and contributing to open-source projects that make tech more inclusive and accessible.
 
+
+
+
+<img src="https://avatars.githubusercontent.com/IanWachcode" width="150" alt="Jane's profile picture" align="center" />
+
 ---
 
 ### 🧠 Languages & Tools
