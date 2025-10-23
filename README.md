@@ -24,5 +24,5 @@ I love building full-stack apps and contributing to open-source projects that ma
 ---
 
 ### 💬 Let’s Connect
-📫 Reach me at **jane.dev@email.com**  
+📫 Reach me at **ianwachira90@email.com**  
 💻 Check out my projects below 👇
