@@ -6,8 +6,8 @@ I love building full-stack apps and contributing to open-source projects that ma
 
 
 
+<P align="center"><img src="https://avatars.githubusercontent.com/IanWachcode" width="150" alt="Jane's profile picture" align="center" /></P>
 
-<img src="https://avatars.githubusercontent.com/IanWachcode" width="150" alt="Jane's profile picture" align="center" />
 
 ---
 
