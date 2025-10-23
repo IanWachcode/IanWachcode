@@ -1,4 +1,7 @@
 ## Hi 👋 Welcome to my World 
+## Ian Wachira
+“I’m a Junior Software Developer and software engineering student, 
+passionate about frontend and backend development.
 
 <!--
 **IanWachcode/IanWachcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
